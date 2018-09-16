@@ -1,4 +1,4 @@
-Website for That's How I Roll
+Final project for INFO 1300. Soon to go live.
 
 ## Authors
 * Donna Yu
