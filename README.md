@@ -1,4 +1,4 @@
-Final project for INFO 1300. Soon to go live.
+Final project for INFO 1300. Live at ithacasushitruck.com.
 
 ## Authors
 * Donna Yu
