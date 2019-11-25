@@ -21,7 +21,7 @@
 
   <div id="contact-info">
     <h2> Phone Number: </h2>
-    <h3> (607) 339-1238 </h3>
+    <h3> (607) 339-1283 </h3>
     <h2> Email: </h2>
     <h3> thats.how.i.roll@outlook.com </h3>
   </div>
